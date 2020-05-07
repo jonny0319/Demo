@@ -1,0 +1,16 @@
+Git Notes
+
+1. go to github website to make a new repository
+
+2. make a driectory and enter the directory 
+
+3. enter command (git init) to start version control with Git
+
+4. To add files , after you create  new files in this directory, enter command git add <file name> 
+     this tells Git that you care about this file would like to keep track of the file
+
+5. To commit changes made in the branch after some work is done, 
+	use git commit "comments or message about this commit"
+
+6. To make changes in GitHub repository, use command git push
+
